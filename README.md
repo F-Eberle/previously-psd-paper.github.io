@@ -1,1 +1,1 @@
-# http-whole-body-motion-discovery.github.io-
+whole-body-motion-discovery.github.io
